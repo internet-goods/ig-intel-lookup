@@ -1,5 +1,4 @@
 #!/bin/bash
-rm -rvf $(date -I) 
 mkdir $(date -I)
 cd $(date -I)
 #STEP ONE INSTALL
