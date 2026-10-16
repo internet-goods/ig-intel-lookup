@@ -12,3 +12,6 @@ sleep 3
 wget https://filegen.fortinet.com/v1/sandbox-file?file_name=linux.sh
 sleep 3
 wget https://filestore.fortinet.com/fortiguard/test-files/outbreak-prevention/zhvo_test.com
+echo confirm tls inspection in cert issuer
+curl -vv https://google.com
+
