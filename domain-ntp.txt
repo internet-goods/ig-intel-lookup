@@ -1,0 +1,24 @@
+#redirect these domains to localhost so users devices use the pi and not remote ntp servers
+0.datadog.pool.ntp.org
+0.pool.ntp.org
+1.android.pool.ntp.org
+1.datadog.pool.ntp.org
+1.pool.ntp.org
+2.android.pool.ntp.org
+2.datadog.pool.ntp.org
+2.pool.ntp.org
+3.datadog.pool.ntp.org
+north-america.pool.ntp.org
+ntp1.glb.nist.gov
+pool.ntp.org
+time-ios.apple.com
+time-macos.apple.com
+time-osx.g.aaplimg.com
+time.android.com
+time.apple.com
+time.nest.com
+time.nist.gov
+us.cn.pool.ntp.org
+time.google.com
+time.aws.com
+time.windows.com
